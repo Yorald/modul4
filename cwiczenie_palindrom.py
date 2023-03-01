@@ -4,6 +4,6 @@ def palindrome_check(word):
     else:
         return False, print("Słowo NIE jest palindromem")
         
-palindrome_check("jd")
+palindrome_check("kajak")
     
 
